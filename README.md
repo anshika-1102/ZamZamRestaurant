@@ -18,4 +18,4 @@ ZamZam Restaurant is a web-based application designed to provide a seamless dini
 
 **js/:** JavaScript files for dynamic functionality.
 
-**index.html: **The main HTML file.
+**index.html:** The main HTML file.
